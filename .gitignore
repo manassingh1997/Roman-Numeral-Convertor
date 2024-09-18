@@ -1,0 +1,15 @@
+roman_env/
+
+#Ignore environment variables
+environment_variables.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
